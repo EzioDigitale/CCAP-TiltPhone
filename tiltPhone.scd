@@ -23,7 +23,7 @@ instr.set(\amp,0.9);
 instr.set(\freq,100);
 )
 
-
+// the wind of change blows straight into the face of time
 
 //set the server
 NetAddr("192.168.1.7",57120);
